@@ -1,0 +1,28 @@
+baseURL: "https://turtlesmoke.github.io/"
+languageCode: "en-us"
+Title: "Turtle's homepage"
+
+# Dream config
+defaultContentLanguage: "en"
+theme: "dream"
+
+params:
+  lightTheme: emerald
+  darkTheme: forest
+  author: TurtleSmoke
+  description: "Turtle's homepage"
+  avatar: /me/pp.jpg
+  headerTitle: TurtleSmoke
+  motto: "Chaque bonne chose a une fin. J'espère que celle-ci en sera une."
+  rss: true
+  utterancesRepo: turtlesmoke/turtlesmoke.github.io
+  siteStartYear: 2024
+  favicon: /favicon.ico
+  customSyntaxHighlighting: true
+  stickyNav: true
+  showSummaryCoverInPost: true
+  advanced: { }
+  experimental:
+    jsDate: true
+    jsDateFormat: yyyy/MM/dd
+
