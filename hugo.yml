@@ -13,7 +13,7 @@ params:
   description: "Turtle's homepage"
   avatar: /me/pp.jpg
   headerTitle: TurtleSmoke
-  motto: "Chaque bonne chose a une fin. J'espère que celle-ci en sera une."
+  motto: "Chaque bonne chose a une fin. J'espère que celle-ci en aura une."
   rss: true
   utterancesRepo: turtlesmoke/turtlesmoke.github.io
   siteStartYear: 2024
