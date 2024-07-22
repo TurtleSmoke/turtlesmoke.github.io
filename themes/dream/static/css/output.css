@@ -3517,8 +3517,6 @@ html {
 }
 
 .flip-container {
-  width: 100vw;
-  height: 100vh;
   perspective: 1000px;
   &.flip-it {
     .flipper {

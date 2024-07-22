@@ -14,8 +14,6 @@
 }
 
 .flip-container {
-  width: 100vw;
-  height: 100vh;
   -webkit-perspective: 1000px;
   -moz-perspective: 1000px;
   perspective: 1000px;
