@@ -1,11 +1,69 @@
 [data-theme="emerald"] #disqus_thread {
-  color-scheme: none;
-  background-color: #fff;
-  color: #333c4d;
+    color-scheme: none;
+    background-color: #fff;
+    color: #333c4d;
 }
 
 [data-theme="forest"] #disqus_thread {
-  color-scheme: none;
-  background-color: #171213;
-  color: #cbc9ca;
+    color-scheme: none;
+    background-color: #171213;
+    color: #cbc9ca;
+}
+
+/* TL;DR box */
+
+.tldr {
+    text-align: justify;
+    border: 1px solid;
+    border-radius: 4px;
+    margin-bottom: 1em;
+    overflow: hidden;
+}
+
+.tldr strong {
+    text-align: center;
+    display: block;
+    padding: 0.2em 1em;
+    font-weight: bold;
+    border-bottom: 1px solid;
+}
+
+.tldr p {
+    margin: 0;
+    padding: 1em;
+}
+
+[data-theme="emerald"] .tldr {
+    border-color: #f1f5f9;
+}
+
+[data-theme="emerald"] .tldr strong {
+    background-color: #f1f5f9;
+    color: #374151;
+    border-bottom-color: #f1f5f9;
+}
+
+[data-theme="emerald"] .tldr p {
+    background-color: #f9fafb;
+    color: #374151;
+}
+
+[data-theme="emerald"] .tldr ul {
+    background-color: #f9fafb;
+    color: #374151;
+}
+
+[data-theme="forest"] .tldr {
+    border-color: #4b5563;
+}
+
+[data-theme="forest"] .tldr strong {
+    background-color: #4b5563;
+    color: #f3f4f6;
+    border-bottom-color: #374151;
+}
+
+[data-theme="forest"] .tldr p {
+    background-color: #262626;
+    color: #e5e7eb;
 }
