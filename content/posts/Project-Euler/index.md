@@ -13,7 +13,7 @@ tags:
   - maths
   - science
   - problems
-weight: 1
+  - programming
 ---
 
 I like maths, programming and problem-solving. Fortunately, Project-Euler combines all three!
