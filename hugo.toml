@@ -1,0 +1,44 @@
+baseURL = "https://TurtleSmoke.github.io"
+languageCode = "en-us"
+Title = "Turtle's homepage"
+defaultContentLanguage = "en"
+theme = "dream"
+
+[params]
+lightTheme = "emerald"
+darkTheme = "forest"
+author = "TurtleSmoke"
+description = "Turtle's homepage"
+avatar = "/me/pp.jpg"
+headerTitle = "TurtleSmoke"
+motto = "Chaque bonne chose a une fin. J'espère que celle-ci en aura une."
+siteStartYear = 2024
+favicon = "/favicon.ico"
+customSyntaxHighlighting = true
+stickyNav = true
+showSummaryCoverInPost = true
+reorderNavItems = ["search", "github", "posts", "categories", "tags"]
+collapseNavItems = ["posts", "categories", "tags"]
+# Add "." because nothing generate the default one, and I don't want to show any share button
+reorderShares = ["."]
+
+[params.navItems]
+github = { href = "https://github.com/TurtleSmoke", target = "_blank", icon = "logo-github", title = "GitHub" }
+
+[params.advanced]
+customCSS = ["css/custom.css"]
+
+[params.experimental]
+jsDate = true
+jsDateFormat = "yyyy/MM/dd"
+
+# Markup
+[markup]
+[markup.goldmark.parser.attribute]
+block = true
+[markup.goldmark.renderer]
+unsafe = true
+[markup.highlight]
+noClasses = false
+
+

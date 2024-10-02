@@ -7,4 +7,4 @@ Greetings, I'm **TurtleSmoke**, a software engineer pursuing a PhD in
 computer vision and machine learning!
 
 As an open-source enthusiast, everything I do is available on my [GitHub](https://github.com/TurtleSmoke). If anything
-catches your eye, you'll always find it there!
+you read catches your eye, you'll always find it there!
