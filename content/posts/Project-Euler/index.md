@@ -24,7 +24,7 @@ I like maths, programming and problem-solving. Fortunately, Project-Euler combin
   <strong>Too Long, Didn't Read!</strong>
   <p>
     I discovered Project Euler in 2020 and enjoyed solving problems during my computer science studies.
-    After a break, I revisited it in 2023 with a focus on writing detailed,
+    After a break, I revisited it in 2023 with a focus on writing detailed, and
     incremental solutions to improve my communication skills.
     Check out my solutions on 
     <a href="https://turtlesmoke.github.io/Project-Euler/">Project Euler</a>
