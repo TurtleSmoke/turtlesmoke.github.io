@@ -44,3 +44,4 @@ noClasses = false
 [frontmatter]
 date = ["date", "publishDate", "lastmod"]
 lastmod = [":git", "lastmod", "date", "publishDate"]
+enableGitInfo = true
