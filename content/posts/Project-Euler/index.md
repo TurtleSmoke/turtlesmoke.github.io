@@ -1,7 +1,5 @@
 ---
 title: Project Euler
-date: 2024-07-22T22:06:37+02:00
-lastmod: 2024-07-22T22:06:37+02:00
 author: TurtleSmoke
 avatar: "/me/pp.jpg"
 cover: img.jpg

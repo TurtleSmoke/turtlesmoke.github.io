@@ -1,7 +1,5 @@
 ---
-title: Index
-date: 2024-07-24T21:24:09+02:00
-lastmod: 2024-07-24T21:24:09+02:00
+title: LeetCode
 author: TurtleSmoke
 avatar: "/me/pp.jpg"
 cover: img.jpg
