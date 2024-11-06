@@ -25,7 +25,7 @@ I like maths, programming and problem-solving. Fortunately, Project-Euler combin
     After a break, I revisited it in 2023 with a focus on writing detailed, and
     incremental solutions to improve my communication skills.
     Check out my solutions on 
-    <a href="https://turtlesmoke.github.io/Project-Euler/">Project Euler</a>
+    <a href="https://turtlesmoke.dev/project-euler/">Project Euler</a>
     and find the source code on
     <a href="https://github.com/TurtleSmoke/Project-Euler">GitHub</a>
   </p>
@@ -55,5 +55,5 @@ long periods to this. With time, I'll be able to complete the milestone of the f
 on the more difficult -- and more interesting -- problems.
 
 If you're interested in my work, you can find the documentation presenting every solution I coded in python at this
-address: [Project Euler](https://turtlesmoke.github.io/Project-Euler/) with the source code available on
+address: [Project Euler](https://turtlesmoke.dev/project-euler/) with the source code available on
 my [GitHub](https://github.com/TurtleSmoke/Project-Euler).
